@@ -1,0 +1,28 @@
+{
+    	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"https://www.facebook.com/",
+      "interval":2,
+      "unityadsId":"1234567",
+      
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+
+
+      "Applovin _banner":"429493931486531_432399514529306xx",
+      "Applovin _inter":"429493931486531_429494128153178xx",
+      "Applovin _native":"429493931486531_432398961196028xx",
+      
+      "unity _banner":"429493931486531_432399514529306xx",
+      "unity _inter":"429493931486531_429494128153178xx"
+
+      
+      
+      
+    }
+  ]
+}
